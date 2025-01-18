@@ -6,6 +6,8 @@
 ### What the heck is Craps?
 Craps is arguably one of the most lively and social games in the Casino. The game revolves around betting on the outcome of a roll, or the series of rolls, of two six-sided dice.
 
+You can try Craps on [The Wizard of Odds](https://wizardofodds.com/play/craps/v2/) for free to see how the game works while referring to the information below.
+
 ### Craps Simulation Goals
 The game Craps is super interesting as it really is just a game about rolling dice on numbers you bet it will land on. I am fairly new into this and I wanted to do some work on it.
 
